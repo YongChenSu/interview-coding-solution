@@ -19,4 +19,4 @@ export const useHover = <T extends HTMLElement>(): [Ref<T>, boolean] => {
 	  }
 	}, [handleMouseEnter, handleMouseLeave])
 	return [callbackRef, isHovered]
-  }
+}

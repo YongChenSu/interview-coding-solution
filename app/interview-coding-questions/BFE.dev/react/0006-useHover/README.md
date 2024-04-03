@@ -74,6 +74,6 @@ export function App() {
 ## Note
 `useRef` 本意希望不要與 rerender 掛鉤，若使用 useEffect 的方法，要完成 `useHover` 功能就要加在 deps list，即便是用 `ref.current`，還是與設計理念相反。
 
-## Reference
+## References
 1. [BFE.dev 討論串](https://bigfrontend.dev/react/useHover/discuss)
 2. [useHover example](https://gist.github.com/gragland/a32d08580b7e0604ff02cb069826ca2f)
