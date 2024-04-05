@@ -1,6 +1,6 @@
 import { Ref, useState, useRef, useCallback } from 'react';
 
-export function useFocus<T extends HTMLElement>(): [Ref<T>, boolean] {
+export const useFocus = <T extends HTMLElement>(): [Ref<T>, boolean] => {
   const [isFocused, setFocused] = useState(false);
   const input = useRef<T>();
 
@@ -28,4 +28,4 @@ export function useFocus<T extends HTMLElement>(): [Ref<T>, boolean] {
   );
 
   return [inputRefCallback, isFocused];
-}
+};
