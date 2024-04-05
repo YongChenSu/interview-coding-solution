@@ -76,3 +76,5 @@ Final `package.json` below:
   "editor.tabSize": 2,
 },
 ```
+
+完成，可以儲存後 format 了！
