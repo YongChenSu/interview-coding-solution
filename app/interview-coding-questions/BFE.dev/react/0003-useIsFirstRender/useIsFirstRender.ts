@@ -1,6 +1,6 @@
 import { useRef, useEffect } from 'react';
 
-export function useFirstRender(): boolean {
+export function useIsFirstRender(): boolean {
   const ref = useRef<boolean>(true);
   useEffect(() => {
     ref.current = false;
