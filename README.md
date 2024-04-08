@@ -15,6 +15,11 @@
 | 0015 | [useClickOutside()](https://bigfrontend.dev/react/useclickoutside) | [TypeScript](./app/interview-coding-questions/BFE.dev/react/0015-useClickOutside/useClickOutside.ts) | [Easy](./app/interview-coding-questions/BFE.dev/react/0015-useClickOutside/README.md) | 
 | 0016 | [useUpdateEffect()](https://bigfrontend.dev/react/useUpdateEffect) | [TypeScript](./app/interview-coding-questions/BFE.dev/react/0016-useUpdateEffect/useUpdateEffect.ts) | [Medium](./app/interview-coding-questions/BFE.dev/react/0016-useUpdateEffect/README.md) | 
 
+### JavaScript Coding Question
+| #    | Title |  Solution | Notes & Difficulty |
+| ---- | ----- | ----------------- | ----------------------- |
+| 0001 | [implement curry()](https://bigfrontend.dev/problem/implement-curry) | [JavaScript](./app/interview-coding-questions/BFE.dev/javascript-coding-question/0001-implement-curry/curry.js) | [Easy](./app/interview-coding-questions/BFE.dev/javascript-coding-question/0001-implement-curry/README.md) | 
+
 ### JavaScript Quiz
 | #    | Title | Solution & Difficulty |
 | ---- | ----- | ----------------------- |
