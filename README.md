@@ -2,6 +2,7 @@
 
 ## Question List
 
+### React
 | #    | Title |  Solution | Notes & Difficulty |
 | ---- | ----- | ----------------- | ----------------------- |
 | 0003 | [useIsFirstRender()](https://bigfrontend.dev/react/useIsFirstRender) | [TypeScript](./app/interview-coding-questions/BFE.dev/react/0003-useIsFirstRender/useIsFirstRender.ts) | [Easy](./app/interview-coding-questions/BFE.dev/react/0003-useIsFirstRender/README.md) | 
@@ -13,3 +14,9 @@
 | 0012 | [useArray()](https://bigfrontend.dev/react/useArray) | [TypeScript](./app/interview-coding-questions/BFE.dev/react/0012-useArray/useArray.ts) | [Medium](./app/interview-coding-questions/BFE.dev/react/0012-useArray/README.md) | 
 | 0015 | [useClickOutside()](https://bigfrontend.dev/react/useclickoutside) | [TypeScript](./app/interview-coding-questions/BFE.dev/react/0015-useClickOutside/useClickOutside.ts) | [Easy](./app/interview-coding-questions/BFE.dev/react/0015-useClickOutside/README.md) | 
 | 0016 | [useUpdateEffect()](https://bigfrontend.dev/react/useUpdateEffect) | [TypeScript](./app/interview-coding-questions/BFE.dev/react/0016-useUpdateEffect/useUpdateEffect.ts) | [Medium](./app/interview-coding-questions/BFE.dev/react/0016-useUpdateEffect/README.md) | 
+
+### JavaScript Quiz
+| #    | Title | Solution & Difficulty |
+| ---- | ----- | ----------------------- |
+| 0130 | [async](https://bigfrontend.dev/quiz/async) | [Easy](./app/interview-coding-questions/BFE.dev/javascript-quiz/0130-async/README.md) | 
+
