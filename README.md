@@ -19,6 +19,9 @@
 | #    | Title |  Solution | Notes & Difficulty |
 | ---- | ----- | ----------------- | ----------------------- |
 | 0001 | [implement curry()](https://bigfrontend.dev/problem/implement-curry) | [JavaScript](./app/interview-coding-questions/BFE.dev/javascript-coding-question/0001-implement-curry/curry.js) | [Easy](./app/interview-coding-questions/BFE.dev/javascript-coding-question/0001-implement-curry/README.md) | 
+| 0002 | [implement curry() with placeholder support](https://bigfrontend.dev/problem/implement-curry-with-placeholder) | [JavaScript](./app/interview-coding-questions/BFE.dev/javascript-coding-question/0002-implement-curry-with-placehoder-support/curry.js) | [Medium](./app/interview-coding-questions/BFE.dev/javascript-coding-question/0002-implement-curry-with-placehoder-support/README.md) | 
+
+
 
 ### JavaScript Quiz
 | #    | Title | Solution & Difficulty |
