@@ -1,8 +1,8 @@
-# Continuously coding, continuously improving.
+# Keep coding, Keep improving.
 
 ## Question List
 
-### React
+### React Coding Question
 | #    | Title |  Solution | Notes & Difficulty |
 | ---- | ----- | ----------------- | ----------------------- |
 | 0003 | [useIsFirstRender()](https://bigfrontend.dev/react-coding-question/useIsFirstRender) | [TypeScript](./app/interview-coding-questions/BFE.dev/react-coding-question/0003-useIsFirstRender/useIsFirstRender.ts) | [Easy](./app/interview-coding-questions/BFE.dev/react-coding-question/0003-useIsFirstRender/README.md) | 
@@ -15,13 +15,16 @@
 | 0015 | [useClickOutside()](https://bigfrontend.dev/react-coding-question/useclickoutside) | [TypeScript](./app/interview-coding-questions/BFE.dev/react-coding-question/0015-useClickOutside/useClickOutside.ts) | [Easy](./app/interview-coding-questions/BFE.dev/react-coding-question/0015-useClickOutside/README.md) | 
 | 0016 | [useUpdateEffect()](https://bigfrontend.dev/react-coding-question/useUpdateEffect) | [TypeScript](./app/interview-coding-questions/BFE.dev/react-coding-question/0016-useUpdateEffect/useUpdateEffect.ts) | [Medium](./app/interview-coding-questions/BFE.dev/react-coding-question/0016-useUpdateEffect/README.md) | 
 
+### React Quiz
+| #    | Title | Solution & Difficulty |
+| ---- | ----- | ----------------------- |
+| 0005 | [Automatic-batching](https://bigfrontend.dev/react-quiz/Automatic-batching) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0005-batching/README.md) | 
+
 ### JavaScript Coding Question
 | #    | Title |  Solution | Notes & Difficulty |
 | ---- | ----- | ----------------- | ----------------------- |
 | 0001 | [implement curry()](https://bigfrontend.dev/problem/implement-curry) | [JavaScript](./app/interview-coding-questions/BFE.dev/javascript-coding-question/0001-implement-curry/curry.js) | [Easy](./app/interview-coding-questions/BFE.dev/javascript-coding-question/0001-implement-curry/README.md) | 
 | 0002 | [implement curry() with placeholder support](https://bigfrontend.dev/problem/implement-curry-with-placeholder) | [JavaScript](./app/interview-coding-questions/BFE.dev/javascript-coding-question/0002-implement-curry-with-placehoder-support/curry.js) | [Medium](./app/interview-coding-questions/BFE.dev/javascript-coding-question/0002-implement-curry-with-placehoder-support/README.md) | 
-
-
 
 ### JavaScript Quiz
 | #    | Title | Solution & Difficulty |
