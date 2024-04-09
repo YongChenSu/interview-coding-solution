@@ -19,6 +19,8 @@
 | #    | Title | Notes & Difficulty |
 | ---- | ----- | --------------------- |
 | 0005 | [Automatic-batching](https://bigfrontend.dev/react-quiz/Automatic-batching) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0005-batching/README.md) | 
+| 0006 | [React re-render 5 - context](https://bigfrontend.dev/react-quiz/React-re-render-5) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0006-react-re-render-5-context/README.md) | 
+
 
 ### JavaScript Coding Question
 | #    | Title |  Solution | Notes & Difficulty |
