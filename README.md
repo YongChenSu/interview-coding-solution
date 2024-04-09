@@ -6,7 +6,7 @@
 | #    | Title |  Solution | Notes & Difficulty |
 | ---- | ----- | ----------------- | ----------------------- |
 | 0003 | [useIsFirstRender()](https://bigfrontend.dev/react-coding-question/useIsFirstRender) | [TypeScript](./app/interview-coding-questions/BFE.dev/react-coding-question/0003-useIsFirstRender/useIsFirstRender.ts) | [Easy](./app/interview-coding-questions/BFE.dev/react-coding-question/0003-useIsFirstRender/README.md) | 
-| 0004 | [useSWR() - I](https://bigfrontend.dev/react-coding-question/useSWR-1) | [TypeScript](./app/interview-coding-questions/BFE.dev/react-coding-question/0004-useSWR-I/useSWR.ts) | [Medium](./app/interview-coding-questions/BFE.dev/react-coding-question/0004-useSWR-I/README.md) | 
+| 0004 | [useSWR()-1](https://bigfrontend.dev/react-coding-question/useSWR-1) | [TypeScript](./app/interview-coding-questions/BFE.dev/react-coding-question/0004-useSWR-I/useSWR.ts) | [Medium](./app/interview-coding-questions/BFE.dev/react-coding-question/0004-useSWR-I/README.md) | 
 | 0005 | [usePrevious()](https://bigfrontend.dev/react-coding-question/usePrevious) | [TypeScript](./app/interview-coding-questions/BFE.dev/react-coding-question/0005-usePrevious/usePrevious.ts) | [Easy](./app/interview-coding-questions/BFE.dev/react-coding-question/0005-usePrevious/README.md) | 
 | 0006 | [useHover()](https://bigfrontend.dev/react-coding-question/useHover) | [TypeScript](./app/interview-coding-questions/BFE.dev/react-coding-question/0006-useHover/useHover.ts) | [Medium](./app/interview-coding-questions/BFE.dev/react-coding-question/0006-useHover/README.md) |
 | 0008 | [useDebounce](https://bigfrontend.dev/react-coding-question/useDebounce) | [TypeScript](./app/interview-coding-questions/BFE.dev/react-coding-question/0008-useDebounce/useDebounce.ts) | [Easy](./app/interview-coding-questions/BFE.dev/react-coding-question/0008-useDebounce/README.md) |  
@@ -20,6 +20,8 @@
 | ---- | ----- | --------------------- |
 | 0005 | [Automatic-batching](https://bigfrontend.dev/react-quiz/Automatic-batching) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0005-batching/README.md) | 
 | 0006 | [React re-render 5 - context](https://bigfrontend.dev/react-quiz/React-re-render-5) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0006-react-re-render-5-context/README.md) | 
+| 0007 | [Suspense-1](https://bigfrontend.dev/react-quiz/Suspense-1) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0006-react-re-render-5-context/README.md) | 
+| 0008 | [Suspense-2](https://bigfrontend.dev/react-quiz/Suspense-2) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0008-suspense-2/README.md) | 
 
 
 ### JavaScript Coding Question
