@@ -19,9 +19,10 @@
 | #    | Title | Notes & Difficulty |
 | ---- | ----- | --------------------- |
 | 0005 | [Automatic-batching](https://bigfrontend.dev/react-quiz/Automatic-batching) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0005-batching/README.md) | 
-| 0006 | [React re-render 5 - context](https://bigfrontend.dev/react-quiz/React-re-render-5) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0006-react-re-render-5-context/README.md) | 
+| 0006 | [React re-render-5-context](https://bigfrontend.dev/react-quiz/React-re-render-5) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0006-react-re-render-5-context/README.md) | 
 | 0007 | [Suspense-1](https://bigfrontend.dev/react-quiz/Suspense-1) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0006-react-re-render-5-context/README.md) | 
 | 0008 | [Suspense-2](https://bigfrontend.dev/react-quiz/Suspense-2) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0008-suspense-2/README.md) | 
+| 0009 | [React re-render-6-context](https://bigfrontend.dev/react-quiz/react-rerender-6-context) | [Easy](./app/interview-coding-questions/BFE.dev/react-quiz/0009-react-re-render-6-context/README.md) | 
 | 0010 | [useLayoutEffect](https://bigfrontend.dev/react-quiz/useLayoutEffect) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0010-useLayoutEffect/README.md) | 
 | 0011 | [callback props](https://bigfrontend.dev/react-quiz/callback-props) | [Easy](./app/interview-coding-questions/BFE.dev/react-quiz/0011-callback-props/README.md) | 
 
