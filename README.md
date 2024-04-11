@@ -25,6 +25,8 @@
 | 0009 | [React re-render-6-context](https://bigfrontend.dev/react-quiz/react-rerender-6-context) | [Easy](./app/interview-coding-questions/BFE.dev/react-quiz/0009-react-re-render-6-context/README.md) | 
 | 0010 | [useLayoutEffect](https://bigfrontend.dev/react-quiz/useLayoutEffect) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0010-useLayoutEffect/README.md) | 
 | 0011 | [callback props](https://bigfrontend.dev/react-quiz/callback-props) | [Easy](./app/interview-coding-questions/BFE.dev/react-quiz/0011-callback-props/README.md) | 
+| 0012 | [useEffect](https://bigfrontend.dev/react-quiz/useEffect) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0012-useEffect/README.md) | 
+
 
 
 ### JavaScript Coding Question
