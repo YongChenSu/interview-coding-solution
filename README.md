@@ -22,6 +22,7 @@
 | 0006 | [React re-render 5 - context](https://bigfrontend.dev/react-quiz/React-re-render-5) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0006-react-re-render-5-context/README.md) | 
 | 0007 | [Suspense-1](https://bigfrontend.dev/react-quiz/Suspense-1) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0006-react-re-render-5-context/README.md) | 
 | 0008 | [Suspense-2](https://bigfrontend.dev/react-quiz/Suspense-2) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0008-suspense-2/README.md) | 
+| 0009 | [useLayoutEffect](https://bigfrontend.dev/react-quiz/useLayoutEffect) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz//0009-useLayoutEffect/README.md) | 
 
 
 ### JavaScript Coding Question
