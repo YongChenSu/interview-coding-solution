@@ -27,6 +27,7 @@
 | 0011 | [callback props](https://bigfrontend.dev/react-quiz/callback-props) | [Easy](./app/interview-coding-questions/BFE.dev/react-quiz/0011-callback-props/README.md) | 
 | 0012 | [useEffect](https://bigfrontend.dev/react-quiz/useEffect) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0012-useEffect/README.md) | 
 | 0013 | [useRef](https://bigfrontend.dev/react-quiz/useRef) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0013-useRef/README.md) | 
+| 0014 | [async-event-handler](https://bigfrontend.dev/react-quiz/async-event-handler) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0014-async-event-handler/README.md) | 
 
 
 ### JavaScript Coding Question
