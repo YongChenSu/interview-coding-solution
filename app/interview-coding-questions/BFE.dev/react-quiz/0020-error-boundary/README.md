@@ -1,4 +1,4 @@
-## Question: 0000-template
+## Question: 0020-error-boundary
 ```javascript
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
