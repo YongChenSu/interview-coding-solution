@@ -33,6 +33,8 @@
 | 0017 | [flushSync](https://bigfrontend.dev/react-quiz/flushsync) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0017-flushSync/README.md) | 
 | 0018 | [useRef-2](https://bigfrontend.dev/react-quiz/useRef-2) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0018-useRef-2/README.md) | 
 | 0019 | [lazy initial state](https://bigfrontend.dev/react-quiz/lazy-initial-state) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0019-lazy-initial-state/README.md) | 
+| 0020 | [error boundary](https://bigfrontend.dev/react-quiz/https://bigfrontend.dev/react-quiz/Error-Boundar) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0020-error-boundary/README.md) | 
+
 
 ### JavaScript Coding Question
 | #    | Title |  Solution | Notes & Difficulty |
