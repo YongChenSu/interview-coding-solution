@@ -28,9 +28,11 @@
 | 0012 | [useEffect](https://bigfrontend.dev/react-quiz/useEffect) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0012-useEffect/README.md) | 
 | 0013 | [useRef](https://bigfrontend.dev/react-quiz/useRef) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0013-useRef/README.md) | 
 | 0014 | [async-event-handler](https://bigfrontend.dev/react-quiz/async-event-handler) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0014-async-event-handler/README.md) | 
-| 0015 | [memo-2](https://bigfrontend.dev/react-quiz/memo-2) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0015-memo-2/README.md) | 
+| 0015 | [memo-2](https://bigfrontend.dev/react-quiz/memo-2) | [Easy](./app/interview-coding-questions/BFE.dev/react-quiz/0015-memo-2/README.md) | 
 | 0016 | [event callback](https://bigfrontend.dev/react-quiz/event-handler) | [Easy](./app/interview-coding-questions/BFE.dev/react-quiz/0016-event-handler/README.md) | 
-| 0017 | [flushSync](https://bigfrontend.dev/react-quiz/flushsync) | [Easy](./app/interview-coding-questions/BFE.dev/react-quiz/0017-flushSync/README.md) | 
+| 0017 | [flushSync](https://bigfrontend.dev/react-quiz/flushsync) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0017-flushSync/README.md) | 
+| 0018 | [useRef-2](https://bigfrontend.dev/react-quiz/useRef-2) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0018-useRef-2/README.md) | 
+
 
 ### JavaScript Coding Question
 | #    | Title |  Solution | Notes & Difficulty |

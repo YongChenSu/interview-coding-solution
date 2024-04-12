@@ -54,10 +54,15 @@ root.render(<App/>)
 ```
 
 ## Note
-若使用 `useEffect` 畫面會一直閃爍，才考慮改用 `useLayoutEffect` 解決問題，但因會`useLayoutEffect` 會在瀏覽器重繪前執行，可能會造成
+`useLayoutEffect` runs synchronously before the browser repaints the screen.
 
-在 state 更新之時，畫面要重繪，在 `useEffect` 中 state 又被更新一次，導致畫面閃爍
-，但使用 `useLayoutEffect` 會等 `useLayoutEffect` 裡的 state 更新完再進行重繪。
+It was designed to handle side effects that require immediate DOM layout updates.
+
+It is highly encouraged in specific use cases, such as when measuring DOM elements, or animating or transitioning elements
+
+若使用 `useEffect` 畫面會一直閃爍，才考慮改用 `useLayoutEffect` 解決問題，但因會`useLayoutEffect` 會在瀏覽器重繪前執行，可能會造成效能問題。
+
+在 state 更新之時，畫面要重繪，在 `useEffect` 中 state 又被更新一次，導致畫面閃爍，但使用 `useLayoutEffect` 會等 `useLayoutEffect` 裡的 state 更新完再進行重繪。
 
 官方文件
 
@@ -84,3 +89,4 @@ React 則會在重繪前，就重新計算正確的位置，才渲染畫面。
 ## Reference
 [useLayoutEffect 的使用時機](https://react.dev/reference/react/useLayoutEffect#usage)
 [請解釋 useEffect？與 useLayoutEffect 的區別？](https://www.explainthis.io/zh-hant/swe/use-effect-vs-use-layout-effect)
+[react-useeffect-vs-uselayouteffect-hooks-examples](https://blog.logrocket.com/react-useeffect-vs-uselayouteffect-hooks-examples/)
