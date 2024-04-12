@@ -36,6 +36,7 @@
 | 0020 | [error boundary](https://bigfrontend.dev/react-quiz/Error-Boundary) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0020-error-boundary/README.md) | 
 | 0021 | [useEffect-II](https://bigfrontend.dev/react-quiz/useEffect-II) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0021-useEffect-II/README.md) | 
 | 0022 | [useState](https://bigfrontend.dev/react-quiz/useState) | [Hard](./app/interview-coding-questions/BFE.dev/react-quiz/0022-useState/README.md) |
+| 0023 | [Suspense 3](https://bigfrontend.dev/react-quiz/suspense-3) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0023-suspense-III/README.md) |
 
 ### JavaScript Coding Question
 | #    | Title |  Solution | Notes & Difficulty |
