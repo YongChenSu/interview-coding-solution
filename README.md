@@ -40,6 +40,7 @@
 | 0024 | [useEffect-timing](https://bigfrontend.dev/react-quiz/useeffect-timing) | [Easy](./app/interview-coding-questions/BFE.dev/react-quiz/0024-useEffect-timing/README.md) |
 | 0025 | [all-kinds-of-effects](https://bigfrontend.dev/react-quiz/all-kinds-of-effects) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0025-all-kind-of-effects/README.md) |
 | 0026 | [useEffect-III](https://bigfrontend.dev/react-quiz/useeffect-iii) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0026-useEffect-III/README.md) |
+| 0027 | [useEffect-timing-II](https://bigfrontend.dev/react-quiz/useeffect-timing-ii) | [Easy](./app/interview-coding-questions/BFE.dev/react-quiz/0027-useEffect-timing-II/README.md) |
 
 
 ### JavaScript Coding Question
