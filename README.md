@@ -37,8 +37,8 @@
 | 0021 | [useEffect-II](https://bigfrontend.dev/react-quiz/useEffect-II) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0021-useEffect-II/README.md) | 
 | 0022 | [useState](https://bigfrontend.dev/react-quiz/useState) | [Hard](./app/interview-coding-questions/BFE.dev/react-quiz/0022-useState/README.md) |
 | 0023 | [Suspense 3](https://bigfrontend.dev/react-quiz/suspense-3) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0023-suspense-III/README.md) |
-| 0023 | [useEffect-timing](https://bigfrontend.dev/react-quiz/useeffect-timing) | [Easy](./app/interview-coding-questions/BFE.dev/react-quiz/0024-useEffect-timing/README.md) |
-
+| 0024 | [useEffect-timing](https://bigfrontend.dev/react-quiz/useeffect-timing) | [Easy](./app/interview-coding-questions/BFE.dev/react-quiz/0024-useEffect-timing/README.md) |
+| 0025 | [all-kinds-of-effects](https://bigfrontend.dev/react-quiz/all-kinds-of-effects) | [Medium](./app/interview-coding-questions/BFE.dev/react-quiz/0025-all-kind-of-effects/README.md) |
 
 ### JavaScript Coding Question
 | #    | Title |  Solution | Notes & Difficulty |
