@@ -1,9 +1,5 @@
 # Keep coding, Keep improving.
 
-:::info
-[repo](https://github.com/YongChenSu/interview-coding-solution?tab=readme-ov-file)
-:::
-
 ## Question List
 
 ### React Coding Question
@@ -60,3 +56,4 @@
 | ---- | ----- | ----------------------- |
 | 0130 | [async](https://bigfrontend.dev/quiz/async) | [Easy](./app/interview-coding-questions/BFE.dev/javascript-quiz/0130-async/README.md) | 
 
+>[repo link](https://github.com/YongChenSu/interview-coding-solution?tab=readme-ov-file)
