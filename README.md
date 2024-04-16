@@ -54,6 +54,7 @@
 ### JavaScript Quiz
 | #    | Title | Notes & Difficulty |
 | ---- | ----- | ----------------------- |
+| 0002 | [Promise executor](https://bigfrontend.dev/quiz/2-promise-executor) | [Easy](./app/interview-coding-questions/BFE.dev/javascript-quiz/0002-Promise%20executor/README.md) | 
 | 0130 | [async](https://bigfrontend.dev/quiz/async) | [Easy](./app/interview-coding-questions/BFE.dev/javascript-quiz/0130-async/README.md) | 
 
 >[repo link](https://github.com/YongChenSu/interview-coding-solution?tab=readme-ov-file)
