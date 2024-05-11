@@ -14,6 +14,7 @@ function c() { return f() }
 console.log(a() === b())
 console.log(b() === c())
 console.log(a() === c())
+console.log(c() === f())
 ```
 
 ## Solution 1
@@ -23,4 +24,6 @@ Async functions always returns a new promise which is a different instance every
 console.log(a() === b()) // false
 console.log(b() === c()) // false
 console.log(a() === c()) // false
+console.log(c() === f()) // true
+console.log(a() === a()) // false
 ```
