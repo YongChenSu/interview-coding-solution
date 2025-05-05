@@ -58,3 +58,15 @@
 | 0130 | [async](https://bigfrontend.dev/quiz/async) | [Easy](./app/interview-coding-questions/BFE.dev/javascript-quiz/0130-async/README.md) | 
 
 >[repo link](https://github.com/YongChenSu/interview-coding-solution?tab=readme-ov-file)
+
+### TypeScript Questions
+| #    | Title | Notes |
+| ---- | ----- | ----------------------- |
+| 0001 | Function| [Note](./app/interview-coding-questions/typescript-questions/0001-Function/README.md) | 
+| 0002 | Omit-Pick | [Note](./app/interview-coding-questions/typescript-questions/0002-Omit-Pick/README.md) | 
+| 0003 | RemoveIndexSignature | [Note](./app/interview-coding-questions/typescript-questions/0003-RemoveIndexSignature/README.md) | 
+| 0004 | tryCatchError | [Note](./app/interview-coding-questions/typescript-questions/0004-tryCatchError/README.md) | 
+| 0005 | UserAndPosts | [Note](./app/interview-coding-questions/typescript-questions/0005-UserAndPosts/README.md) | 
+| 0006 | utility-types | [Note](./app/interview-coding-questions/typescript-questions/0006-utility-types/README.md) | 
+
+
